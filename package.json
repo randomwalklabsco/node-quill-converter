@@ -18,7 +18,8 @@
   "license": "MIT",
   "private": false,
   "scripts": {
-    "test": "jest test"
+    "test": "jest test",
+    "prepare": "npm run build"
   },
   "dependencies": {
     "jsdom": "^11.8.0",
