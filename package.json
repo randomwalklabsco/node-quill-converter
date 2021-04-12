@@ -1,6 +1,6 @@
 {
-  "name": "node-quill-converter",
-  "version": "0.3.3",
+  "name": "node-quill-converter-custom",
+  "version": "1.0.0",
   "description": "Convert HTML to Delta or Delta to HTML",
   "keywords": [
     "node",
@@ -9,12 +9,16 @@
     "convert",
     "html"
   ],
-  "homepage": "https://github.com/joelcolucci/node-quill-converter",
+  "homepage": "https://github.com/randomwalklabsco/node-quill-converter",
   "bugs": {
-    "url": "https://github.com/joelcolucci/node-quill-converter/issues"
+    "url": "https://github.com/randomwalklabsco/node-quill-converter/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:randomwalklabsco/node-quill-converter.git"
   },
   "main": "./lib/index.js",
-  "author": "Joel Colucci",
+  "author": "Random Walk Labs",
   "license": "MIT",
   "private": false,
   "scripts": {
